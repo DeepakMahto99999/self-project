@@ -8,3 +8,6 @@ git add .
 git commit -m "vite setup"
 git push -u origin main
 
+
+
+## added tailwind 
